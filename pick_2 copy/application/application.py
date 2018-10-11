@@ -1,8 +1,9 @@
+# I pushed this to git
 # You need to design & create a function to make a client's life better.
 
 ## Step Zero:
 ### Find your Client and their needs
-# Needs to know how much each item costs in the 
+# Needs to know how much each item costs in the
 
 ## Step One: Gantt Chart and Concurrent Programming
 ### In the form of a Gantt chart, fully plan out the tasks and time needed to complete this task.
