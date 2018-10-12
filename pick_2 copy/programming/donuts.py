@@ -7,19 +7,16 @@ def score(arr):
         if average >= 90:
             donut = len(arr)
             # The number of donuts equals to the number of students.
-            return donut
         elif 82 <= average <= 90 :
             donut = len(arr)/2
             # The number of donuts equals to half the number of students because each student gets half a donut.
-            return donut
         elif 81 <= average <= 77:
             donut = len(arr)/3
             # The number of donuts equals to one-third of the number of students because each student gets one-third of a donut.
-            return donut
         else:
             donut = len(arr)/2
             # The number of donuts equals to half the number of students because each student will only give Mr. James half a donut.
-            return donut
+        return donut
 
 print(score(scores))
 # This calls the function.
