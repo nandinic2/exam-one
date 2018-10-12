@@ -2,7 +2,7 @@
 
 clothes = int(input('How many items of the same clothing did you buy?'))
 # Asks the user how many items were bought.
-cost = int(input('How did one item cost?'))
+cost = int(input('How much did one item cost?'))
 # The cost of the item of clothing.
 
 def discount(int, val):
