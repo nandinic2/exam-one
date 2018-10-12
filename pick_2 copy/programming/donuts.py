@@ -23,14 +23,3 @@ def score(arr):
 
 print(score(scores))
 # This calls the function.
-
-
-
-# Step One
-## Create a flow chart for your algorithm
-
-# Step Two
-## Create your function. Fully comment out you code.
-
-# Step Three
-## Beta test your function with another group. How can you make you function better?
